@@ -1,0 +1,27 @@
+.button{
+    display: table-cell;
+    border-radius: 10px;
+    width:150px;
+    height: 30px;
+    background-color: #bada55;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    transition-property: width, height, background-color;
+    transition-duration: 2s;
+    vertical-align: middle;
+}
+
+.button:hover{
+
+    background-color: orange;
+
+}
+
+
+a {
+  text-decoration: none;
+}
